@@ -3,6 +3,7 @@
 *.xls
 *.csv
 *.json.zip
+*.json
 
 # Virtual environment
 .venv/

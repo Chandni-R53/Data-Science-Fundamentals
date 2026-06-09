@@ -1,45 +1,57 @@
-# Data Science Repository
+## Data Science Fundamentals — Python
 
-This repository contains my structured work in Data Science using Python.
-It is organized topic-wise and focuses on building strong fundamentals through
-practical, well-documented Jupyter notebooks.
+A structured learning repository where I'm building Data Science foundations topic by topic, through practical, well-documented Jupyter notebooks.
 
-The repository is intended to reflect a disciplined and progressive approach
-towards learning Data Science concepts relevant for real-world analysis.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## Current Scope
-At present, the repository includes material related to NumPy, which serves
-as the foundational library for numerical computing and array-based operations
-in Data Science.
+---
 
-## Contents
-- Concept-focused Jupyter notebooks
-- Clear examples demonstrating core NumPy operations
-- Emphasis on vectorized computation and correct data handling
+### About
 
-## Topics Implemented
-- NumPy array creation and properties
-- Indexing and slicing
-- Vectorized operations
-- Broadcasting rules
-- Array stacking and transformations
-- Element-wise mathematical and logical operations
+This repo documents my Data Science learning journey — each library gets its own folder with focused notebooks covering concepts and hands-on examples. The goal is to build a strong practical foundation before moving into full projects.
 
-## Planned Expansion
-- Pandas for data manipulation
-- Data visualization techniques
-- Exploratory Data Analysis (EDA)
-- SQL for analytical querying
-- Introductory Machine Learning models
+---
 
-## Tools
-- Python
-- NumPy
-- Jupyter Notebook
-- VS Code
+### Topics Covered
 
-## Objective
-To practice and build a foundation in Data Science.
+#### 📐 NumPy
+Numerical computing fundamentals — arrays, indexing, vectorized operations, broadcasting and array transformations.
 
-## Status
-Actively maintained and updated as learning progresses.
+📁 [`numpy/`](./numpy/)
+
+---
+
+#### 🐼 Pandas
+Data manipulation and analysis — DataFrames, filtering, grouping, merging, and handling real-world messy data.
+
+📁 [`pandas/`](./pandas/)
+
+---
+
+#### 📊 Matplotlib
+Data visualization basics — line plots, bar charts, scatter plots, histograms, and figure customization.
+
+📁 [`matplotlib/`](./matplotlib/)
+
+---
+
+#### 🎨 Seaborn
+Statistical visualizations — distribution plots, categorical plots, heatmaps, and correlation analysis.
+
+📁 [`seaborn/`](./seaborn/)
+
+---
+
+### Tools
+
+| Tool | Purpose |
+|---|---|
+| Python | Core language |
+| Jupyter Notebook | Interactive coding |
+| VS Code | Editor |
+| Git & GitHub | Version control |

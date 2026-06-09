@@ -19,28 +19,28 @@ This repo documents my Data Science learning journey — each library gets its o
 
 ### Topics Covered
 
-#### 📐 NumPy
+#### NumPy
 Numerical computing fundamentals — arrays, indexing, vectorized operations, broadcasting and array transformations.
 
 📁 [`numpy/`](./numpy/)
 
 ---
 
-#### 🐼 Pandas
+#### Pandas
 Data manipulation and analysis — DataFrames, filtering, grouping, merging, and handling real-world messy data.
 
 📁 [`pandas/`](./pandas/)
 
 ---
 
-#### 📊 Matplotlib
+#### Matplotlib
 Data visualization basics — line plots, bar charts, scatter plots, histograms, and figure customization.
 
 📁 [`matplotlib/`](./matplotlib/)
 
 ---
 
-#### 🎨 Seaborn
+#### Seaborn
 Statistical visualizations — distribution plots, categorical plots, heatmaps, and correlation analysis.
 
 📁 [`seaborn/`](./seaborn/)
